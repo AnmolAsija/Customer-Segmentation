@@ -1,0 +1,1 @@
+This project performs customer segmentation using K-Means clustering on mall customer data based on Annual Income and Spending Score. It helps identify different customer groups for targeted marketing.
