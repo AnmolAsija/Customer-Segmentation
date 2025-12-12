@@ -44,6 +44,7 @@ Matplotlib, Seaborn
 # Repository Structure
 Customer-Segmentation/
 │
+
 ├── segmentation.ipynb       # Main notebook
 
 ├── data/                    # Dataset (if allowed)
@@ -54,10 +55,15 @@ Customer-Segmentation/
 
 # Running the Notebook
 Open in Jupyter:
+
 jupyter notebook segmentation.ipynb
 
 # Possible Extensions
 Add DBSCAN or hierarchical clustering
+
 Add silhouette score analysis
+
 Build customer personas
+
 Deploy as a dashboard using Streamlit
+
